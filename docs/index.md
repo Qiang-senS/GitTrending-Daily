@@ -9,7 +9,7 @@
 > SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 
 
-🔤 **Rust** · ⭐ **12,124** · 🍴 **2,075**
+🔤 **Rust** · ⭐ **12,443** · 🍴 **2,175**
 
 
 ### 2. [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin)
@@ -17,7 +17,7 @@
 > Codex Dream Skin
 
 
-🔤 **JavaScript** · ⭐ **5,375** · 🍴 **627**
+🔤 **JavaScript** · ⭐ **5,628** · 🍴 **647**
 
 
 ### 3. [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct)
@@ -25,7 +25,7 @@
 > A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。
 
 
-🔤 **Python** · ⭐ **1,670** · 🍴 **325**
+🔤 **Python** · ⭐ **1,678** · 🍴 **327**
 
 
 ### 4. [littledivy/mimic](https://github.com/littledivy/mimic)
@@ -33,7 +33,7 @@
 > Intercept any app, then call it from Python like a library
 
 
-🔤 **Python** · ⭐ **1,102** · 🍴 **56**
+🔤 **Python** · ⭐ **1,105** · 🍴 **56**
 
 
 ### 5. [pixel-point/aval](https://github.com/pixel-point/aval)
@@ -41,19 +41,19 @@
 > A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.
 
 
-🔤 **TypeScript** · ⭐ **1,043** · 🍴 **61**
+🔤 **TypeScript** · ⭐ **1,050** · 🍴 **61**
 
 
 ### 6. [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether)
 
 
-🔤 **Rust** · ⭐ **930** · 🍴 **44**
+🔤 **Rust** · ⭐ **935** · 🍴 **44**
 
 
 ### 7. [x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel)
 
 
-🔤 **Dockerfile** · ⭐ **845** · 🍴 **1,569**
+🔤 **Dockerfile** · ⭐ **846** · 🍴 **1,571**
 
 
 ### 8. [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide)
@@ -71,7 +71,7 @@
 > A Codex skill that finds evidence-backed potential first customers from recent public signals.
 
 
-🔤 **Python** · ⭐ **762** · 🍴 **78**
+🔤 **Python** · ⭐ **761** · 🍴 **78**
 
 🏷️ `codex` `codex-skill` `customer-discovery` `early-adopters` `prospecting` `startup`
 
@@ -79,7 +79,7 @@
 ### 10. [x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node)
 
 
-🔤 **Dockerfile** · ⭐ **726** · 🍴 **1,429**
+🔤 **Dockerfile** · ⭐ **727** · 🍴 **1,430**
 
 
 ### 11. [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme)
@@ -87,7 +87,7 @@
 > Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown
 
 
-🔤 **Python** · ⭐ **690** · 🍴 **40**
+🔤 **Python** · ⭐ **691** · 🍴 **40**
 
 🏷️ `agent-skill` `codex-skill` `github-readme` `readme-design` `svg`
 
@@ -97,7 +97,7 @@
 > Your clothes, extracted and organized with gpt-image.
 
 
-🔤 **JavaScript** · ⭐ **630** · 🍴 **84**
+🔤 **JavaScript** · ⭐ **644** · 🍴 **86**
 
 
 ### 13. [KubeezMedia/kubeez-scroll-world-video](https://github.com/KubeezMedia/kubeez-scroll-world-video)
@@ -113,7 +113,7 @@
 > One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust
 
 
-🔤 **TypeScript** · ⭐ **480** · 🍴 **21**
+🔤 **TypeScript** · ⭐ **482** · 🍴 **21**
 
 🏷️ `anti-censorship` `censorship-circumvention` `desktop-app` `proxy` `react` `rust`
 
@@ -123,7 +123,7 @@
 > Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传
 
 
-🔤 **Python** · ⭐ **337** · 🍴 **117**
+🔤 **Python** · ⭐ **339** · 🍴 **119**
 
 
 ### 16. [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte)
@@ -141,7 +141,7 @@
 > Add, verify, monitor, and remove customer domains with one TypeScript API.
 
 
-🔤 **TypeScript** · ⭐ **311** · 🍴 **13**
+🔤 **TypeScript** · ⭐ **313** · 🍴 **13**
 
 
 ### 18. [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu)
@@ -149,7 +149,7 @@
 > Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.
 
 
-🔤 **Go** · ⭐ **301** · 🍴 **12**
+🔤 **Go** · ⭐ **303** · 🍴 **12**
 
 🏷️ `agent-memory` `ai-memory` `claude` `claude-code` `cli` `codex`
 
@@ -157,15 +157,15 @@
 ### 19. [TobiasLee/Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill)
 
 
-⭐ **298** · 🍴 **11**
+⭐ **299** · 🍴 **11**
 
 
-### 20. [WAYLON/ashare-quant-strategies](https://github.com/WAYLON/ashare-quant-strategies)
+### 20. [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue)
 
-> A-share quant strategies research corpus: 119 Python strategy articles for learning
+> Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.
 
 
-🔤 **Python** · ⭐ **290** · 🍴 **191**
+🔤 **JavaScript** · ⭐ **290** · 🍴 **61**
 
 
 ---
@@ -178,4 +178,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-07-17 08:48:46*
+*最后更新: 2026-07-17 09:49:41*

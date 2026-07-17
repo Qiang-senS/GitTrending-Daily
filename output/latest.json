@@ -7,49 +7,49 @@
       "url": "https://github.com/xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "language": "Rust",
-      "stars": 12124
+      "stars": 12443
     },
     {
       "name": "Fei-Away/Codex-Dream-Skin",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "language": "JavaScript",
-      "stars": 5375
+      "stars": 5628
     },
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "language": "Python",
-      "stars": 1670
+      "stars": 1678
     },
     {
       "name": "littledivy/mimic",
       "url": "https://github.com/littledivy/mimic",
       "description": "Intercept any app, then call it from Python like a library",
       "language": "Python",
-      "stars": 1102
+      "stars": 1105
     },
     {
       "name": "pixel-point/aval",
       "url": "https://github.com/pixel-point/aval",
       "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
       "language": "TypeScript",
-      "stars": 1043
+      "stars": 1050
     },
     {
       "name": "CluvexStudio/Aether",
       "url": "https://github.com/CluvexStudio/Aether",
       "description": "",
       "language": "Rust",
-      "stars": 930
+      "stars": 935
     },
     {
       "name": "x4gKing/Marzban-Panel",
       "url": "https://github.com/x4gKing/Marzban-Panel",
       "description": "",
       "language": "Dockerfile",
-      "stars": 845
+      "stars": 846
     },
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
@@ -63,28 +63,28 @@
       "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
       "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
       "language": "Python",
-      "stars": 762
+      "stars": 761
     },
     {
       "name": "x4gKing/Marzban-Node",
       "url": "https://github.com/x4gKing/Marzban-Node",
       "description": "",
       "language": "Dockerfile",
-      "stars": 726
+      "stars": 727
     },
     {
       "name": "oil-oil/beautify-github-readme",
       "url": "https://github.com/oil-oil/beautify-github-readme",
       "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "language": "Python",
-      "stars": 690
+      "stars": 691
     },
     {
       "name": "tandpfun/wardrobe",
       "url": "https://github.com/tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "language": "JavaScript",
-      "stars": 630
+      "stars": 644
     },
     {
       "name": "KubeezMedia/kubeez-scroll-world-video",
@@ -98,14 +98,14 @@
       "url": "https://github.com/MatinSenPai/Aether-GUI",
       "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
       "language": "TypeScript",
-      "stars": 480
+      "stars": 482
     },
     {
       "name": "Git-creat7/grokRegister-cpa",
       "url": "https://github.com/Git-creat7/grokRegister-cpa",
       "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
       "language": "Python",
-      "stars": 337
+      "stars": 339
     },
     {
       "name": "QuantumByteOSS/quantumbyte",
@@ -119,27 +119,27 @@
       "url": "https://github.com/opencoredev/domain-sdk",
       "description": "Add, verify, monitor, and remove customer domains with one TypeScript API.",
       "language": "TypeScript",
-      "stars": 311
+      "stars": 313
     },
     {
       "name": "vshulcz/deja-vu",
       "url": "https://github.com/vshulcz/deja-vu",
       "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex and opencode already write. One zero-dep binary.",
       "language": "Go",
-      "stars": 301
+      "stars": 303
     },
     {
       "name": "TobiasLee/Rebuttal-Skill",
       "url": "https://github.com/TobiasLee/Rebuttal-Skill",
       "description": "",
       "language": "",
-      "stars": 298
+      "stars": 299
     },
     {
-      "name": "WAYLON/ashare-quant-strategies",
-      "url": "https://github.com/WAYLON/ashare-quant-strategies",
-      "description": "A-share quant strategies research corpus: 119 Python strategy articles for learning",
-      "language": "Python",
+      "name": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
       "stars": 290
     }
   ]
