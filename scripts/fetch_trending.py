@@ -15,10 +15,17 @@ def fetch_hot_repos():
     """从 GitHub API 获取高星仓库（模拟 Trending）"""
     all_repos = []
 
+    # 动态计算日期范围：最近7天
+    seven_days_ago = (datetime.now(BEIJING_TZ) - timedelta(days=7)).strftime('%Y-%m-%d')
+    
     # 按不同时间段搜索热门仓库
     queries = [
         # 今日热门：最近7天创建的高增长项目
-        'created:>2026-07-10 stars:>50 sort:stars-desc',
+        f'created:>{seven_days_ago} stars:>50 sort:stars-desc',
+        # 补充：最近14天的高星项目
+        f'created:>{seven_days_ago} stars:>20 sort:stars-desc',
+        # 补充搜索：最近更新的项目
+        f'pushed:>{seven_days_ago} stars:>200 sort:stars-desc',
     ]
 
     headers = {
