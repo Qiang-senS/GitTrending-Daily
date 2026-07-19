@@ -1,5 +1,5 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "count": 20,
   "repos": [
     {
@@ -7,140 +7,140 @@
       "url": "https://github.com/xai-org/grok-build",
       "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
       "language": "Rust",
-      "stars": 16576
+      "stars": 18919
     },
     {
       "name": "Fei-Away/Codex-Dream-Skin",
       "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
       "description": "Codex Dream Skin",
       "language": "JavaScript",
-      "stars": 8725
+      "stars": 9768
     },
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
       "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
       "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
       "language": "Python",
-      "stars": 1888
-    },
-    {
-      "name": "pixel-point/aval",
-      "url": "https://github.com/pixel-point/aval",
-      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "language": "TypeScript",
-      "stars": 1164
-    },
-    {
-      "name": "littledivy/mimic",
-      "url": "https://github.com/littledivy/mimic",
-      "description": "Intercept any app, then call it from Python like a library",
-      "language": "Python",
-      "stars": 1149
+      "stars": 2044
     },
     {
       "name": "CluvexStudio/Aether",
       "url": "https://github.com/CluvexStudio/Aether",
       "description": "",
       "language": "Rust",
-      "stars": 1144
+      "stars": 1256
     },
     {
-      "name": "x4gKing/Marzban-Panel",
-      "url": "https://github.com/x4gKing/Marzban-Panel",
-      "description": "",
-      "language": "Dockerfile",
-      "stars": 914
+      "name": "pixel-point/aval",
+      "url": "https://github.com/pixel-point/aval",
+      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
+      "language": "TypeScript",
+      "stars": 1212
+    },
+    {
+      "name": "littledivy/mimic",
+      "url": "https://github.com/littledivy/mimic",
+      "description": "Intercept any app, then call it from Python like a library",
+      "language": "Python",
+      "stars": 1176
     },
     {
       "name": "tandpfun/wardrobe",
       "url": "https://github.com/tandpfun/wardrobe",
       "description": "Your clothes, extracted and organized with gpt-image.",
       "language": "JavaScript",
-      "stars": 904
+      "stars": 1054
+    },
+    {
+      "name": "x4gKing/Marzban-Panel",
+      "url": "https://github.com/x4gKing/Marzban-Panel",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 873
     },
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
       "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
       "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
       "language": "TypeScript",
-      "stars": 833
-    },
-    {
-      "name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "language": "Python",
-      "stars": 789
-    },
-    {
-      "name": "x4gKing/Marzban-Node",
-      "url": "https://github.com/x4gKing/Marzban-Node",
-      "description": "",
-      "language": "Dockerfile",
-      "stars": 777
+      "stars": 839
     },
     {
       "name": "oil-oil/beautify-github-readme",
       "url": "https://github.com/oil-oil/beautify-github-readme",
       "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
       "language": "Python",
-      "stars": 757
+      "stars": 819
+    },
+    {
+      "name": "Kappaemme-git/codex-first-customer-finder-skill",
+      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
+      "language": "Python",
+      "stars": 817
+    },
+    {
+      "name": "x4gKing/Marzban-Node",
+      "url": "https://github.com/x4gKing/Marzban-Node",
+      "description": "",
+      "language": "Dockerfile",
+      "stars": 753
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "language": "Go",
+      "stars": 700
     },
     {
       "name": "KubeezMedia/kubeez-scroll-world-video",
       "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
       "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
       "language": "JavaScript",
-      "stars": 646
+      "stars": 653
     },
     {
       "name": "MatinSenPai/Aether-GUI",
       "url": "https://github.com/MatinSenPai/Aether-GUI",
       "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
       "language": "TypeScript",
-      "stars": 540
-    },
-    {
-      "name": "Blueturboguy07/cue",
-      "url": "https://github.com/Blueturboguy07/cue",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "language": "JavaScript",
-      "stars": 482
-    },
-    {
-      "name": "PengZhang64/circuit-framework",
-      "url": "https://github.com/PengZhang64/circuit-framework",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "language": "Python",
-      "stars": 479
+      "stars": 597
     },
     {
       "name": "pablostanley/yoinks",
       "url": "https://github.com/pablostanley/yoinks",
       "description": "yoink any video from your terminal. no shady ads.",
       "language": "TypeScript",
-      "stars": 431
+      "stars": 558
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
+      "language": "JavaScript",
+      "stars": 552
+    },
+    {
+      "name": "PengZhang64/circuit-framework",
+      "url": "https://github.com/PengZhang64/circuit-framework",
+      "description": "Circuit Framework — multi-agent LLM trading research system",
+      "language": "Python",
+      "stars": 481
     },
     {
       "name": "Git-creat7/grokRegister-cpa",
       "url": "https://github.com/Git-creat7/grokRegister-cpa",
       "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
       "language": "Python",
-      "stars": 364
+      "stars": 389
     },
     {
-      "name": "vshulcz/deja-vu",
-      "url": "https://github.com/vshulcz/deja-vu",
-      "description": "Memory layer for coding agents: search, MCP recall, auto-context, secret redaction, stats, share and sync over the session logs Claude Code, Codex, opencode, Cursor, Gemini CLI, aider, Antigravity, Grok Build and Qwen Code already write. One zero-dep binary.",
-      "language": "Go",
-      "stars": 338
-    },
-    {
-      "name": "QuantumByteOSS/quantumbyte",
-      "url": "https://github.com/QuantumByteOSS/quantumbyte",
-      "description": "Open-source app builder engine — intent to working app",
-      "language": "Python",
-      "stars": 324
+      "name": "stackblitz/bolt-slides",
+      "url": "https://github.com/stackblitz/bolt-slides",
+      "description": "Use any agent to create stunning, interactive presentations",
+      "language": "TypeScript",
+      "stars": 383
     }
   ]
 }
