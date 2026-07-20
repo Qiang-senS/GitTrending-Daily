@@ -1,146 +1,146 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "count": 20,
   "repos": [
     {
-      "name": "xai-org/grok-build",
-      "url": "https://github.com/xai-org/grok-build",
-      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-      "language": "Rust",
-      "stars": 18919
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "stars": 528937
     },
     {
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
-      "description": "Codex Dream Skin",
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "stars": 452097
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "description": ":books: Freely available programming books",
+      "language": "Python",
+      "stars": 392502
+    },
+    {
+      "name": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+      "language": "TypeScript",
+      "stars": 383491
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "language": "TypeScript",
+      "stars": 361795
+    },
+    {
+      "name": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "language": "Python",
+      "stars": 309145
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "language": "",
+      "stars": 306789
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 257575
+    },
+    {
+      "name": "react/react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
-      "stars": 9768
+      "stars": 246585
     },
     {
-      "name": "MDX-Tom/gpt-5.6-instruct",
-      "url": "https://github.com/MDX-Tom/gpt-5.6-instruct",
-      "description": "A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。",
-      "language": "Python",
-      "stars": 2044
+      "name": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "description": "Linux kernel source tree",
+      "language": "C",
+      "stars": 239854
     },
     {
-      "name": "CluvexStudio/Aether",
-      "url": "https://github.com/CluvexStudio/Aether",
-      "description": "",
-      "language": "Rust",
-      "stars": 1256
-    },
-    {
-      "name": "pixel-point/aval",
-      "url": "https://github.com/pixel-point/aval",
-      "description": "A new open-source format for interactive video on the web, with a built-in state machine, frame-accurate transitions, and packed-alpha transparency.",
-      "language": "TypeScript",
-      "stars": 1212
-    },
-    {
-      "name": "littledivy/mimic",
-      "url": "https://github.com/littledivy/mimic",
-      "description": "Intercept any app, then call it from Python like a library",
-      "language": "Python",
-      "stars": 1176
-    },
-    {
-      "name": "tandpfun/wardrobe",
-      "url": "https://github.com/tandpfun/wardrobe",
-      "description": "Your clothes, extracted and organized with gpt-image.",
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 1054
+      "stars": 231244
     },
     {
-      "name": "x4gKing/Marzban-Panel",
-      "url": "https://github.com/x4gKing/Marzban-Panel",
-      "description": "",
-      "language": "Dockerfile",
-      "stars": 873
-    },
-    {
-      "name": "mereyabdenbekuly-ctrl/clodex-ide",
-      "url": "https://github.com/mereyabdenbekuly-ctrl/clodex-ide",
-      "description": "Local-first, zero-trust agentic IDE for verifiable autonomous software development.",
-      "language": "TypeScript",
-      "stars": 839
-    },
-    {
-      "name": "oil-oil/beautify-github-readme",
-      "url": "https://github.com/oil-oil/beautify-github-readme",
-      "description": "Design clear, theme-specific GitHub README homepages with SVG titles, real proof, and maintainable Markdown",
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 819
+      "stars": 217264
     },
     {
-      "name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
-      "description": "A Codex skill that finds evidence-backed potential first customers from recent public signals.",
-      "language": "Python",
-      "stars": 817
+      "name": "ossu/computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "description": "🎓 Path to a free self-taught education in Computer Science!",
+      "language": "HTML",
+      "stars": 206950
     },
     {
-      "name": "x4gKing/Marzban-Node",
-      "url": "https://github.com/x4gKing/Marzban-Node",
-      "description": "",
-      "language": "Dockerfile",
-      "stars": 753
-    },
-    {
-      "name": "nethical6/conversation-steganography",
-      "url": "https://github.com/nethical6/conversation-steganography",
-      "description": "Use LLMs to hide messages inside normal looking conversations",
-      "language": "Go",
-      "stars": 700
-    },
-    {
-      "name": "KubeezMedia/kubeez-scroll-world-video",
-      "url": "https://github.com/KubeezMedia/kubeez-scroll-world-video",
-      "description": "Scroll-scrubbed 'fly through the world' burger demo, generated with Kubeez. Live: meepcastana.github.io/kubeez-scroll-world-video",
-      "language": "JavaScript",
-      "stars": 653
-    },
-    {
-      "name": "MatinSenPai/Aether-GUI",
-      "url": "https://github.com/MatinSenPai/Aether-GUI",
-      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, React 19, Rust",
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
-      "stars": 597
+      "stars": 197077
     },
     {
-      "name": "pablostanley/yoinks",
-      "url": "https://github.com/pablostanley/yoinks",
-      "description": "yoink any video from your terminal. no shady ads.",
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "stars": 196385
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "stars": 188699
+    },
+    {
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "description": "Visual Studio Code",
       "language": "TypeScript",
-      "stars": 558
+      "stars": 187699
     },
     {
-      "name": "Blueturboguy07/cue",
-      "url": "https://github.com/Blueturboguy07/cue",
-      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidden from screen shares. Cluely alternative, bring-your-own-key.",
-      "language": "JavaScript",
-      "stars": 552
-    },
-    {
-      "name": "PengZhang64/circuit-framework",
-      "url": "https://github.com/PengZhang64/circuit-framework",
-      "description": "Circuit Framework — multi-agent LLM trading research system",
-      "language": "Python",
-      "stars": 481
-    },
-    {
-      "name": "Git-creat7/grokRegister-cpa",
-      "url": "https://github.com/Git-creat7/grokRegister-cpa",
-      "description": "Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传",
-      "language": "Python",
-      "stars": 389
-    },
-    {
-      "name": "stackblitz/bolt-slides",
-      "url": "https://github.com/stackblitz/bolt-slides",
-      "description": "Use any agent to create stunning, interactive presentations",
+      "name": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 383
+      "stars": 187534
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "language": "",
+      "stars": 186884
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "language": "Python",
+      "stars": 185617
     }
   ]
 }
