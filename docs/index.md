@@ -9,7 +9,7 @@
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 
-🔤 **TypeScript** · ⭐ **452,140** · 🍴 **45,603**
+🔤 **TypeScript** · ⭐ **452,144** · 🍴 **45,604**
 
 🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
@@ -19,7 +19,7 @@
 > :books: Freely available programming books
 
 
-🔤 **Python** · ⭐ **392,576** · 🍴 **66,550**
+🔤 **Python** · ⭐ **392,582** · 🍴 **66,548**
 
 🏷️ `books` `education` `hacktoberfest` `list` `resource`
 
@@ -29,7 +29,7 @@
 > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **383,605** · 🍴 **80,582**
+🔤 **TypeScript** · ⭐ **383,608** · 🍴 **80,584**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
@@ -39,7 +39,7 @@
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 
-🔤 **TypeScript** · ⭐ **361,951** · 🍴 **44,608**
+🔤 **TypeScript** · ⭐ **361,957** · 🍴 **44,607**
 
 🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
 
@@ -49,7 +49,7 @@
 > An opinionated list of Python frameworks, libraries, tools, and resources
 
 
-🔤 **Python** · ⭐ **309,341** · 🍴 **28,350**
+🔤 **Python** · ⭐ **309,346** · 🍴 **28,350**
 
 🏷️ `awesome` `collections` `python` `python-frameworks` `python-libraries` `python-tools`
 
@@ -59,7 +59,7 @@
 > A list of Free Software network services and web applications which can be hosted on your own servers
 
 
-⭐ **307,000** · 🍴 **14,391**
+⭐ **307,007** · 🍴 **14,393**
 
 🏷️ `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -69,7 +69,7 @@
 > Curated list of project-based tutorials
 
 
-🔤 **Python** · ⭐ **274,390** · 🍴 **35,369**
+🔤 **Python** · ⭐ **274,399** · 🍴 **35,369**
 
 🏷️ `beginner-project` `cpp` `golang` `javascript` `project` `python`
 
@@ -79,7 +79,7 @@
 > An agentic skills framework & software development methodology that works.
 
 
-🔤 **Shell** · ⭐ **258,179** · 🍴 **23,009**
+🔤 **Shell** · ⭐ **258,205** · 🍴 **23,010**
 
 🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
@@ -89,7 +89,7 @@
 > The library for web and native user interfaces.
 
 
-🔤 **JavaScript** · ⭐ **246,608** · 🍴 **51,260**
+🔤 **JavaScript** · ⭐ **246,610** · 🍴 **51,267**
 
 🏷️ `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -99,7 +99,7 @@
 > Linux kernel source tree
 
 
-🔤 **C** · ⭐ **239,952** · 🍴 **63,543**
+🔤 **C** · ⭐ **239,957** · 🍴 **63,547**
 
 
 ### 11. [affaan-m/ECC](https://github.com/affaan-m/ECC)
@@ -107,7 +107,7 @@
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
-🔤 **JavaScript** · ⭐ **231,580** · 🍴 **35,336**
+🔤 **JavaScript** · ⭐ **231,588** · 🍴 **35,337**
 
 🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
 
@@ -117,7 +117,7 @@
 > All Algorithms implemented in Python
 
 
-🔤 **Python** · ⭐ **222,955** · 🍴 **50,879**
+🔤 **Python** · ⭐ **222,954** · 🍴 **50,879**
 
 🏷️ `algorithm` `algorithm-competitions` `algorithms-implemented` `algos` `community-driven` `education`
 
@@ -127,7 +127,7 @@
 > The agent that grows with you
 
 
-🔤 **Python** · ⭐ **217,807** · 🍴 **41,098**
+🔤 **Python** · ⭐ **217,829** · 🍴 **41,110**
 
 🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
 
@@ -137,7 +137,7 @@
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 
-🔤 **TypeScript** · ⭐ **197,236** · 🍴 **59,492**
+🔤 **TypeScript** · ⭐ **197,239** · 🍴 **59,494**
 
 🏷️ `ai` `apis` `automation` `cli` `data-flow` `development`
 
@@ -147,7 +147,7 @@
 > An Open Source Machine Learning Framework for Everyone
 
 
-🔤 **C++** · ⭐ **196,421** · 🍴 **75,622**
+🔤 **C++** · ⭐ **196,421** · 🍴 **75,626**
 
 🏷️ `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml` `neural-network`
 
@@ -157,7 +157,7 @@
 > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 
-🔤 **Shell** · ⭐ **188,713** · 🍴 **26,464**
+🔤 **Shell** · ⭐ **188,714** · 🍴 **26,464**
 
 🏷️ `cli` `cli-app` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme` `ohmyzsh`
 
@@ -167,7 +167,7 @@
 > The open source coding agent.
 
 
-🔤 **TypeScript** · ⭐ **187,915** · 🍴 **23,639**
+🔤 **TypeScript** · ⭐ **187,936** · 🍴 **23,639**
 
 
 ### 18. [microsoft/vscode](https://github.com/microsoft/vscode)
@@ -175,7 +175,7 @@
 > Visual Studio Code
 
 
-🔤 **TypeScript** · ⭐ **187,747** · 🍴 **41,323**
+🔤 **TypeScript** · ⭐ **187,750** · 🍴 **41,330**
 
 🏷️ `editor` `electron` `microsoft` `typescript` `visual-studio-code`
 
@@ -185,7 +185,7 @@
 > DigitalPlat FreeDomain: Free Domain For Everyone
 
 
-⭐ **187,148** · 🍴 **3,924**
+⭐ **187,161** · 🍴 **3,925**
 
 🏷️ `digitalplat` `domain` `domain-platform` `domainname` `domains` `free`
 
@@ -210,4 +210,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-07-21 09:20:59*
+*最后更新: 2026-07-21 10:11:01*
