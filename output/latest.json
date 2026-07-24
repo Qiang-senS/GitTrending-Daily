@@ -3,144 +3,144 @@
   "count": 20,
   "repos": [
     {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "stars": 452574
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
+      "name": "lopopolo/harness-engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "description": "🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
       "language": "Python",
-      "stars": 392852
+      "stars": 2277
     },
     {
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "language": "TypeScript",
-      "stars": 383948
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "language": "TypeScript",
-      "stars": 362444
-    },
-    {
-      "name": "vinta/awesome-python",
-      "url": "https://github.com/vinta/awesome-python",
-      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "name": "andrewyng/openworker",
+      "url": "https://github.com/andrewyng/openworker",
+      "description": "",
       "language": "Python",
-      "stars": 309948
+      "stars": 1379
     },
     {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+      "name": "Vincentwei1021/video-shotcraft",
+      "url": "https://github.com/Vincentwei1021/video-shotcraft",
+      "description": "AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template",
+      "language": "TypeScript",
+      "stars": 956
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "url": "https://github.com/Jakubantalik/thinking-orbs",
+      "description": "Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light",
+      "language": "TypeScript",
+      "stars": 831
+    },
+    {
+      "name": "Blaizzy/nativ",
+      "url": "https://github.com/Blaizzy/nativ",
+      "description": "Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.",
+      "language": "Swift",
+      "stars": 818
+    },
+    {
+      "name": "powerycy/goutoujunshi",
+      "url": "https://github.com/powerycy/goutoujunshi",
+      "description": "一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。",
+      "language": "Python",
+      "stars": 667
+    },
+    {
+      "name": "pireel/pireel",
+      "url": "https://github.com/pireel/pireel",
+      "description": "Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.",
+      "language": "TypeScript",
+      "stars": 659
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "url": "https://github.com/xiejunjie524/handdraw-story-video",
+      "description": "Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.",
+      "language": "Python",
+      "stars": 634
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
+      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).",
+      "language": "JavaScript",
+      "stars": 563
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "url": "https://github.com/0xhype/hyperliquid-tracker",
+      "description": "Get notified when big trades happen on Hyperliquid.",
+      "language": "TypeScript",
+      "stars": 504
+    },
+    {
+      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
+      "url": "https://github.com/KinetiNode/claude-fable-5-system-prompt-clean",
+      "description": "the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.",
       "language": "",
-      "stars": 307696
+      "stars": 396
     },
     {
-      "name": "practical-tutorials/project-based-learning",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "language": "Python",
-      "stars": 274958
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 260068
-    },
-    {
-      "name": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
+      "name": "CatsJuice/sticker-forge",
+      "url": "https://github.com/CatsJuice/sticker-forge",
+      "description": "A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.",
       "language": "JavaScript",
-      "stars": 246687
+      "stars": 382
     },
     {
-      "name": "torvalds/linux",
-      "url": "https://github.com/torvalds/linux",
-      "description": "Linux kernel source tree",
-      "language": "C",
-      "stars": 240244
-    },
-    {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "name": "Kritt-ai/open-kritt",
+      "url": "https://github.com/Kritt-ai/open-kritt",
+      "description": "Orchestrate AI agents to find real vulnerabilities in code.",
       "language": "JavaScript",
-      "stars": 232585
+      "stars": 359
     },
     {
-      "name": "TheAlgorithms/Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
+      "name": "AdelanSoulX/PM-Sniper",
+      "url": "https://github.com/AdelanSoulX/PM-Sniper",
+      "description": "",
       "language": "Python",
-      "stars": 223046
+      "stars": 344
     },
     {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "name": "AdelanSupport/adelan-support",
+      "url": "https://github.com/AdelanSupport/adelan-support",
+      "description": "",
       "language": "Python",
-      "stars": 219532
+      "stars": 340
     },
     {
-      "name": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "language": "TypeScript",
-      "stars": 197672
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "stars": 196483
-    },
-    {
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars": 189037
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "stars": 188763
-    },
-    {
-      "name": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
-      "language": "TypeScript",
-      "stars": 187828
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "name": "berabuddies/redis-poc",
+      "url": "https://github.com/berabuddies/redis-poc",
+      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0",
       "language": "Python",
-      "stars": 185662
+      "stars": 309
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 184609
+      "name": "SeanJ1ang/design-judge-skills",
+      "url": "https://github.com/SeanJ1ang/design-judge-skills",
+      "description": "Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.",
+      "language": "Python",
+      "stars": 300
+    },
+    {
+      "name": "Charles-0509/Grok-Register",
+      "url": "https://github.com/Charles-0509/Grok-Register",
+      "description": "Grok free-register CLI: register → OAuth → CPA JSON (Go)",
+      "language": "Go",
+      "stars": 293
+    },
+    {
+      "name": "lyu0805/OpenBrowser",
+      "url": "https://github.com/lyu0805/OpenBrowser",
+      "description": "本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA",
+      "language": "JavaScript",
+      "stars": 291
+    },
+    {
+      "name": "Gheat1/tuistore",
+      "url": "https://github.com/Gheat1/tuistore",
+      "description": "🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.",
+      "language": "Python",
+      "stars": 286
     }
   ]
 }

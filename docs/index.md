@@ -4,198 +4,174 @@
 
 ---
 
-### 1. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+### 1. [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering)
 
-> freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+> 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 
 
-🔤 **TypeScript** · ⭐ **452,574** · 🍴 **45,643**
+🔤 **Python** · ⭐ **2,277** · 🍴 **228**
 
-🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
+### 2. [andrewyng/openworker](https://github.com/andrewyng/openworker)
 
-### 2. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
-> :books: Freely available programming books
+🔤 **Python** · ⭐ **1,379** · 🍴 **207**
 
 
-🔤 **Python** · ⭐ **392,852** · 🍴 **66,563**
+### 3. [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)
 
-🏷️ `books` `education` `hacktoberfest` `list` `resource`
+> AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 106 shot recipe cards, 161 motion previews, a production-ready template
 
 
-### 3. [openclaw/openclaw](https://github.com/openclaw/openclaw)
+🔤 **TypeScript** · ⭐ **956** · 🍴 **73**
 
-> Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+🏷️ `agent-skills` `ai-agents` `ai-video` `claude-code` `claude-code-skills` `claude-skills`
 
 
-🔤 **TypeScript** · ⭐ **383,948** · 🍴 **80,662**
+### 4. [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs)
 
-🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
+> Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two sizes, auto dark/light
 
 
-### 4. [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+🔤 **TypeScript** · ⭐ **831** · 🍴 **58**
 
-> Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
+### 5. [Blaizzy/nativ](https://github.com/Blaizzy/nativ)
 
-🔤 **TypeScript** · ⭐ **362,444** · 🍴 **44,650**
+> Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app.
 
-🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
 
+🔤 **Swift** · ⭐ **818** · 🍴 **43**
 
-### 5. [vinta/awesome-python](https://github.com/vinta/awesome-python)
 
-> An opinionated list of Python frameworks, libraries, tools, and resources
+### 6. [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi)
 
+> 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。
 
-🔤 **Python** · ⭐ **309,948** · 🍴 **28,366**
 
-🏷️ `awesome` `collections` `python` `python-frameworks` `python-libraries` `python-tools`
+🔤 **Python** · ⭐ **667** · 🍴 **79**
 
+🏷️ `ai-agent` `chinese` `codex` `codex-skill` `lgbtq` `psychology`
 
-### 6. [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
-> A list of Free Software network services and web applications which can be hosted on your own servers
+### 7. [pireel/pireel](https://github.com/pireel/pireel)
 
+> Open-source, backend-free AI video editor for talking-head video — storyboarding, designed graphics, kinetic captions, themes and in-browser WebCodecs export. Drivable by any AI agent over MCP.
 
-⭐ **307,696** · 🍴 **14,428**
 
-🏷️ `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
+🔤 **TypeScript** · ⭐ **659** · 🍴 **52**
 
+🏷️ `ai-video` `capcut` `captions` `chatcut` `openchatcut` `talking-head`
 
-### 7. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 
-> Curated list of project-based tutorials
+### 8. [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video)
 
+> Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-coloring videos with HyperFrames.
 
-🔤 **Python** · ⭐ **274,958** · 🍴 **35,440**
 
-🏷️ `beginner-project` `cpp` `golang` `javascript` `project` `python`
+🔤 **Python** · ⭐ **634** · 🍴 **97**
 
 
-### 8. [obra/superpowers](https://github.com/obra/superpowers)
+### 9. [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video)
 
-> An agentic skills framework & software development methodology that works.
+> Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (silent MP4 picture track).
 
 
-🔤 **Shell** · ⭐ **260,068** · 🍴 **23,185**
+🔤 **JavaScript** · ⭐ **563** · 🍴 **66**
 
-🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
+### 10. [0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker)
 
-### 9. [react/react](https://github.com/react/react)
+> Get notified when big trades happen on Hyperliquid.
 
-> The library for web and native user interfaces.
 
+🔤 **TypeScript** · ⭐ **504** · 🍴 **1**
 
-🔤 **JavaScript** · ⭐ **246,687** · 🍴 **51,165**
 
-🏷️ `declarative` `frontend` `javascript` `library` `react` `ui`
+### 11. [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean)
 
+> the optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 system prompt. Re-engineered into clean Markdown for universal execution on Gemini 3.1 Pro, ChatGPT 5.6, and advanced LLM agents.
 
-### 10. [torvalds/linux](https://github.com/torvalds/linux)
 
-> Linux kernel source tree
+⭐ **396** · 🍴 **81**
 
 
-🔤 **C** · ⭐ **240,244** · 🍴 **63,439**
+### 12. [CatsJuice/sticker-forge](https://github.com/CatsJuice/sticker-forge)
 
+> A tactile WebGL sticker maker with rich text, image uploads, and interactive peel physics.
 
-### 11. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
-> The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+🔤 **JavaScript** · ⭐ **382** · 🍴 **31**
 
+🏷️ `sticker` `webgl`
 
-🔤 **JavaScript** · ⭐ **232,585** · 🍴 **35,446**
 
-🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
+### 13. [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt)
 
+> Orchestrate AI agents to find real vulnerabilities in code.
 
-### 12. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
-> All Algorithms implemented in Python
+🔤 **JavaScript** · ⭐ **359** · 🍴 **75**
 
+🏷️ `agent` `agents` `ai` `bug-bounty` `bugbounty` `bugbounty-tools`
 
-🔤 **Python** · ⭐ **223,046** · 🍴 **50,888**
 
-🏷️ `algorithm` `algorithm-competitions` `algorithms-implemented` `algos` `community-driven` `education`
+### 14. [AdelanSoulX/PM-Sniper](https://github.com/AdelanSoulX/PM-Sniper)
 
 
-### 13. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+🔤 **Python** · ⭐ **344** · 🍴 **0**
 
-> The agent that grows with you
 
+### 15. [AdelanSupport/adelan-support](https://github.com/AdelanSupport/adelan-support)
 
-🔤 **Python** · ⭐ **219,532** · 🍴 **41,663**
 
-🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
+🔤 **Python** · ⭐ **340** · 🍴 **0**
 
 
-### 14. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+### 16. [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc)
 
-> Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+> RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0
 
 
-🔤 **TypeScript** · ⭐ **197,672** · 🍴 **59,572**
+🔤 **Python** · ⭐ **309** · 🍴 **89**
 
-🏷️ `ai` `apis` `automation` `cli` `data-flow` `development`
 
+### 17. [SeanJ1ang/design-judge-skills](https://github.com/SeanJ1ang/design-judge-skills)
 
-### 15. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+> Evidence-driven Agent Skills for design award research, evaluation, award matching, entry writing, and submission readiness.
 
-> An Open Source Machine Learning Framework for Everyone
 
+🔤 **Python** · ⭐ **300** · 🍴 **12**
 
-🔤 **C++** · ⭐ **196,483** · 🍴 **75,505**
+🏷️ `agent-skills` `claude-code` `codex` `design-awards` `design-evaluation` `design-research`
 
-🏷️ `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml` `neural-network`
 
+### 18. [Charles-0509/Grok-Register](https://github.com/Charles-0509/Grok-Register)
 
-### 16. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+> Grok free-register CLI: register → OAuth → CPA JSON (Go)
 
-> The open source coding agent.
 
+🔤 **Go** · ⭐ **293** · 🍴 **105**
 
-🔤 **TypeScript** · ⭐ **189,037** · 🍴 **23,884**
 
+### 19. [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser)
 
-### 17. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+> 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA
 
-> 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
+🔤 **JavaScript** · ⭐ **291** · 🍴 **64**
 
-🔤 **Shell** · ⭐ **188,763** · 🍴 **26,466**
+🏷️ `chromium` `electron` `fingerprint-browser` `proxy` `rpa`
 
-🏷️ `cli` `cli-app` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme` `ohmyzsh`
 
+### 20. [Gheat1/tuistore](https://github.com/Gheat1/tuistore)
 
-### 18. [microsoft/vscode](https://github.com/microsoft/vscode)
+> 🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal apps. Built on ricekit, seeded from awesome-tuis.
 
-> Visual Studio Code
 
+🔤 **Python** · ⭐ **286** · 🍴 **10**
 
-🔤 **TypeScript** · ⭐ **187,828** · 🍴 **41,226**
-
-🏷️ `editor` `electron` `microsoft` `typescript` `visual-studio-code`
-
-
-### 19. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
-> AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
-
-🔤 **Python** · ⭐ **185,662** · 🍴 **46,073**
-
-🏷️ `agentic-ai` `agents` `ai` `artificial-intelligence` `autonomous-agents` `claude`
-
-
-### 20. [mattpocock/skills](https://github.com/mattpocock/skills)
-
-> Skills for Real Engineers. Straight from my .agents directory.
-
-
-🔤 **Shell** · ⭐ **184,609** · 🍴 **15,813**
+🏷️ `app-store` `awesome-tuis` `cli` `developer-tools` `package-manager` `python`
 
 
 ---
@@ -208,4 +184,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-07-24 09:23:33*
+*最后更新: 2026-07-24 10:12:01*
