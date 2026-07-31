@@ -9,7 +9,7 @@
 > A collective list of free APIs
 
 
-🔤 **Python** · ⭐ **453,667** · 🍴 **49,978**
+🔤 **Python** · ⭐ **453,671** · 🍴 **49,978**
 
 🏷️ `api` `apis` `dataset` `development` `free` `list`
 
@@ -19,7 +19,7 @@
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 
-🔤 **TypeScript** · ⭐ **453,216** · 🍴 **45,749**
+🔤 **TypeScript** · ⭐ **453,220** · 🍴 **45,751**
 
 🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
@@ -29,7 +29,7 @@
 > :books: Freely available programming books
 
 
-🔤 **Python** · ⭐ **393,366** · 🍴 **66,583**
+🔤 **Python** · ⭐ **393,371** · 🍴 **66,580**
 
 🏷️ `books` `education` `hacktoberfest` `list` `resource`
 
@@ -39,7 +39,7 @@
 > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **384,619** · 🍴 **80,835**
+🔤 **TypeScript** · ⭐ **384,622** · 🍴 **80,839**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
@@ -49,7 +49,7 @@
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 
-🔤 **TypeScript** · ⭐ **363,193** · 🍴 **44,703**
+🔤 **TypeScript** · ⭐ **363,198** · 🍴 **44,702**
 
 🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
 
@@ -59,7 +59,7 @@
 > An opinionated list of Python frameworks, libraries, tools, and resources
 
 
-🔤 **Python** · ⭐ **311,260** · 🍴 **28,403**
+🔤 **Python** · ⭐ **311,271** · 🍴 **28,404**
 
 🏷️ `awesome` `collections` `python` `python-frameworks` `python-libraries` `python-tools`
 
@@ -69,7 +69,7 @@
 > A list of Free Software network services and web applications which can be hosted on your own servers
 
 
-⭐ **309,466** · 🍴 **14,516**
+⭐ **309,482** · 🍴 **14,517**
 
 🏷️ `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -79,7 +79,7 @@
 > Curated list of project-based tutorials
 
 
-🔤 **Python** · ⭐ **275,901** · 🍴 **35,531**
+🔤 **Python** · ⭐ **275,906** · 🍴 **35,530**
 
 🏷️ `beginner-project` `cpp` `golang` `javascript` `project` `python`
 
@@ -89,7 +89,7 @@
 > An agentic skills framework & software development methodology that works.
 
 
-🔤 **Shell** · ⭐ **263,972** · 🍴 **23,566**
+🔤 **Shell** · ⭐ **263,991** · 🍴 **23,568**
 
 🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
@@ -99,7 +99,7 @@
 > The library for web and native user interfaces.
 
 
-🔤 **JavaScript** · ⭐ **246,781** · 🍴 **51,176**
+🔤 **JavaScript** · ⭐ **246,787** · 🍴 **51,177**
 
 🏷️ `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -109,7 +109,7 @@
 > Linux kernel source tree
 
 
-🔤 **C** · ⭐ **241,156** · 🍴 **63,624**
+🔤 **C** · ⭐ **241,164** · 🍴 **63,624**
 
 
 ### 12. [affaan-m/ECC](https://github.com/affaan-m/ECC)
@@ -117,7 +117,7 @@
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
-🔤 **JavaScript** · ⭐ **236,229** · 🍴 **35,927**
+🔤 **JavaScript** · ⭐ **236,262** · 🍴 **35,928**
 
 🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
 
@@ -127,7 +127,7 @@
 > All Algorithms implemented in Python
 
 
-🔤 **Python** · ⭐ **223,327** · 🍴 **50,907**
+🔤 **Python** · ⭐ **223,330** · 🍴 **50,907**
 
 🏷️ `algorithm` `algorithm-competitions` `algorithms-implemented` `algos` `community-driven` `education`
 
@@ -137,7 +137,7 @@
 > The agent that grows with you
 
 
-🔤 **Python** · ⭐ **222,886** · 🍴 **42,834**
+🔤 **Python** · ⭐ **222,920** · 🍴 **42,840**
 
 🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
 
@@ -147,7 +147,7 @@
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 
-🔤 **TypeScript** · ⭐ **198,765** · 🍴 **59,794**
+🔤 **TypeScript** · ⭐ **198,770** · 🍴 **59,794**
 
 🏷️ `ai` `apis` `automation` `cli` `data-flow` `development`
 
@@ -157,12 +157,20 @@
 > An Open Source Machine Learning Framework for Everyone
 
 
-🔤 **C++** · ⭐ **196,619** · 🍴 **75,717**
+🔤 **C++** · ⭐ **196,619** · 🍴 **75,720**
 
 🏷️ `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml` `neural-network`
 
 
-### 17. [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+### 17. [mattpocock/skills](https://github.com/mattpocock/skills)
+
+> Skills for Real Engineers. Straight from my .agents directory.
+
+
+🔤 **Shell** · ⭐ **196,398** · 🍴 **16,927**
+
+
+### 18. [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 > 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
@@ -172,20 +180,12 @@
 🏷️ `algorithm` `algorithms` `computer-science` `data-structures` `interview` `interview-preparation`
 
 
-### 18. [mattpocock/skills](https://github.com/mattpocock/skills)
-
-> Skills for Real Engineers. Straight from my .agents directory.
-
-
-🔤 **Shell** · ⭐ **196,294** · 🍴 **16,920**
-
-
 ### 19. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 > The open source coding agent.
 
 
-🔤 **TypeScript** · ⭐ **191,262** · 🍴 **24,381**
+🔤 **TypeScript** · ⭐ **191,283** · 🍴 **24,385**
 
 
 ### 20. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
@@ -193,7 +193,7 @@
 > 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
 
-🔤 **Shell** · ⭐ **188,901** · 🍴 **26,522**
+🔤 **Shell** · ⭐ **188,903** · 🍴 **26,521**
 
 🏷️ `cli` `cli-app` `oh-my-zsh` `oh-my-zsh-plugin` `oh-my-zsh-theme` `ohmyzsh`
 
@@ -208,4 +208,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-07-31 09:15:26*
+*最后更新: 2026-07-31 10:22:24*
