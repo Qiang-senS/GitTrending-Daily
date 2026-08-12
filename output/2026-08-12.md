@@ -39,7 +39,7 @@
 > Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **385,966** · 🍴 **81,119**
+🔤 **TypeScript** · ⭐ **385,966** · 🍴 **81,118**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
@@ -79,7 +79,7 @@
 > An agentic skills framework & software development methodology that works.
 
 
-🔤 **Shell** · ⭐ **270,763** · 🍴 **24,193**
+🔤 **Shell** · ⭐ **270,764** · 🍴 **24,193**
 
 🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
@@ -107,7 +107,7 @@
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
-🔤 **JavaScript** · ⭐ **239,487** · 🍴 **36,359**
+🔤 **JavaScript** · ⭐ **239,488** · 🍴 **36,359**
 
 🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
 
@@ -127,7 +127,7 @@
 > Skills for Real Engineers. Straight from my .agents directory.
 
 
-🔤 **Shell** · ⭐ **213,854** · 🍴 **18,457**
+🔤 **Shell** · ⭐ **213,856** · 🍴 **18,458**
 
 
 ### 14. [n8n-io/n8n](https://github.com/n8n-io/n8n)
@@ -181,7 +181,7 @@
 > Visual Studio Code
 
 
-🔤 **TypeScript** · ⭐ **188,607** · 🍴 **41,569**
+🔤 **TypeScript** · ⭐ **188,608** · 🍴 **41,569**
 
 🏷️ `editor` `electron` `microsoft` `typescript` `visual-studio-code`
 
@@ -206,4 +206,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-08-12 09:25:54*
+*最后更新: 2026-08-12 09:27:12*
