@@ -1,146 +1,146 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "count": 20,
   "repos": [
     {
-      "name": "sindresorhus/awesome",
-      "url": "https://github.com/sindresorhus/awesome",
-      "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
-      "language": "",
-      "stars": 499306
+      "name": "MengTo/threeui",
+      "url": "https://github.com/MengTo/threeui",
+      "description": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "language": "HTML",
+      "stars": 3467
     },
     {
-      "name": "public-apis/public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "stars": 469218
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed",
+      "description": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
       "language": "TypeScript",
-      "stars": 454485
+      "stars": 1738
     },
     {
-      "name": "EbookFoundation/free-programming-books",
-      "url": "https://github.com/EbookFoundation/free-programming-books",
-      "description": ":books: Freely available programming books",
+      "name": "duty1g/x64dbg-mcp-server",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "language": "Zig",
+      "stars": 1225
+    },
+    {
+      "name": "tobi/walgit",
+      "url": "https://github.com/tobi/walgit",
+      "description": "",
+      "language": "Rust",
+      "stars": 1055
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
       "language": "Python",
-      "stars": 395086
+      "stars": 837
     },
     {
-      "name": "openclaw/openclaw",
-      "url": "https://github.com/openclaw/openclaw",
-      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-      "language": "TypeScript",
-      "stars": 387274
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "url": "https://github.com/nilbuild/developer-roadmap",
-      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-      "language": "TypeScript",
-      "stars": 365256
-    },
-    {
-      "name": "vinta/awesome-python",
-      "url": "https://github.com/vinta/awesome-python",
-      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "name": "ShadowAqueduct/watermark-remover",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
       "language": "Python",
-      "stars": 315701
+      "stars": 769
     },
     {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-      "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-      "language": "",
-      "stars": 314555
-    },
-    {
-      "name": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "stars": 276681
-    },
-    {
-      "name": "react/react",
-      "url": "https://github.com/react/react",
-      "description": "The library for web and native user interfaces.",
+      "name": "nateherkai/scroll-craft",
+      "url": "https://github.com/nateherkai/scroll-craft",
+      "description": "Claude Code skill for premium scroll-driven websites. Scroll becomes the timeline, on a real design floor, verified by screenshotting its own scroll.",
       "language": "JavaScript",
-      "stars": 247682
+      "stars": 634
     },
     {
-      "name": "torvalds/linux",
-      "url": "https://github.com/torvalds/linux",
-      "description": "Linux kernel source tree",
-      "language": "C",
-      "stars": 243979
+      "name": "missuo/herdrm",
+      "url": "https://github.com/missuo/herdrm",
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "language": "Swift",
+      "stars": 622
     },
     {
-      "name": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "language": "JavaScript",
-      "stars": 242557
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "name": "lanicer/cve-2026-41940-PoC",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC",
+      "description": "A cPanel and WHM authentication bypassing tool",
       "language": "Python",
-      "stars": 234992
+      "stars": 528
     },
     {
-      "name": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "stars": 233858
+      "name": "Forsy-AI/biosecurity-agent",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "language": "TypeScript",
+      "stars": 513
     },
     {
-      "name": "TheAlgorithms/Python",
-      "url": "https://github.com/TheAlgorithms/Python",
-      "description": "All Algorithms implemented in Python",
+      "name": "xdreizein666/getcontact-cli",
+      "url": "https://github.com/xdreizein666/getcontact-cli",
+      "description": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
       "language": "Python",
-      "stars": 223978
+      "stars": 484
     },
     {
-      "name": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "language": "TypeScript",
-      "stars": 202151
+      "name": "Zyrexnn/Cybermes",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "language": "Python",
+      "stars": 452
     },
     {
-      "name": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "stars": 200672
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
+      "name": "localai-org/kimodo.cpp",
+      "url": "https://github.com/localai-org/kimodo.cpp",
+      "description": "NVIDIA Kimodo ported to C++/GGML",
       "language": "C++",
-      "stars": 197375
+      "stars": 427
     },
     {
-      "name": "microsoft/vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
+      "name": "amagine-ai/Amagine3D",
+      "url": "https://github.com/amagine-ai/Amagine3D",
+      "description": "Amagine3D: From hardware requirements to editable 3D designs",
       "language": "TypeScript",
-      "stars": 189349
+      "stars": 391
     },
     {
-      "name": "ohmyzsh/ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "stars": 189329
+      "name": "mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "url": "https://github.com/mrhlaingbwardev/Telegram-Secure-Storage-Bot",
+      "description": "A secure, privacy-focused Telegram cloud storage bot using Cloudflare Workers and D1 Database. Features PIN protection, Burn-after-read, and Anti-leak.",
+      "language": "JavaScript",
+      "stars": 345
+    },
+    {
+      "name": "LB623/no-negative-echo",
+      "url": "https://github.com/LB623/no-negative-echo",
+      "description": "让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。",
+      "language": "Python",
+      "stars": 344
+    },
+    {
+      "name": "kgoedecke/doop",
+      "url": "https://github.com/kgoedecke/doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "language": "TypeScript",
+      "stars": 320
+    },
+    {
+      "name": "rome-os/rome",
+      "url": "https://github.com/rome-os/rome",
+      "description": "Rome is the agentic OS.",
+      "language": "TypeScript",
+      "stars": 293
+    },
+    {
+      "name": "inkboard/system-atlas",
+      "url": "https://github.com/inkboard/system-atlas",
+      "description": "An agent skill that turns an architecture discussion into an explorable isometric atlas: one data file, an interactive map and a generated SYSTEM.md",
+      "language": "HTML",
+      "stars": 252
+    },
+    {
+      "name": "bam-bam-2/solo-skills",
+      "url": "https://github.com/bam-bam-2/solo-skills",
+      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "language": "Python",
+      "stars": 249
     }
   ]
 }
