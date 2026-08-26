@@ -14,7 +14,7 @@
 - 📥 **每日自动抓取** GitHub 最热门的 20 个仓库
 - 🇨🇳 **中文阅读友好**，快速浏览不费力
 - 🌐 **在线浏览**，无需安装，打开即看
-- 🔄 **每天 UTC 01:12（北京时间 09:12）** 自动更新
+- 🔄 **每天 UTC 00:00（北京时间 08:00）** 自动更新
 - 🏷️ **标签分类**，一眼看出项目领域
 - 🆓 **开源免费**，Fork 就能拥有自己的日报
 
@@ -23,7 +23,7 @@
 | 方式 | 链接 | 说明 |
 |------|------|------|
 | 🌐 **GitHub Pages** | [qiang-sens.github.io/GitTrending-Daily/](https://qiang-sens.github.io/GitTrending-Daily/) | 在线浏览（部分网络需代理） |
-| 📄 **原始 Markdown** | `output/2026-07-26.md` (在仓库中) | 可直接下载阅读 |
+| 📄 **原始 Markdown** | `output/2026-08-26.md` (在仓库中) | 可直接下载阅读 |
 | 💻 **Git Clone** | `git clone https://github.com/Qiang-senS/GitTrending-Daily.git` | 本地查看全部历史日报 |
 
 ## 🚀 找到你的 Today's Trending
@@ -37,7 +37,7 @@ Fork 这个仓库，GitHub Actions 自动启用，什么都不用配置。
 ```bash
 # 1. 点击右上角 Fork 按钮
 # 2. 进入 Actions 选项卡，启用 Workflows
-# 3. 等待第一次运行完成（每天 UTC 01:12 自动触发）
+# 3. 等待第一次运行完成（每天 UTC 00:00 自动触发）
 # 4. 访问 https://你的用户名.github.io/GitTrending-Daily/
 ```
 
