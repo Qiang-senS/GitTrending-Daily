@@ -19,7 +19,7 @@
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 
-🔤 **TypeScript** · ⭐ **455,510** · 🍴 **46,308**
+🔤 **TypeScript** · ⭐ **455,510** · 🍴 **46,306**
 
 🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
@@ -39,7 +39,7 @@
 > The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **389,794** · 🍴 **81,936**
+🔤 **TypeScript** · ⭐ **389,794** · 🍴 **81,937**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
@@ -69,7 +69,7 @@
 > The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 
-🔤 **Python** · ⭐ **320,886** · 🍴 **28,738**
+🔤 **Python** · ⭐ **320,887** · 🍴 **28,738**
 
 🏷️ `awesome` `awesome-list` `python` `python-frameworks` `python-libraries` `python-tools`
 
@@ -89,7 +89,7 @@
 > An agentic skills framework & software development methodology that works.
 
 
-🔤 **Shell** · ⭐ **287,168** · 🍴 **25,683**
+🔤 **Shell** · ⭐ **287,169** · 🍴 **25,683**
 
 🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
@@ -109,7 +109,7 @@
 > Skills for Real Engineers. Straight from my .agents directory.
 
 
-🔤 **Shell** · ⭐ **262,860** · 🍴 **22,173**
+🔤 **Shell** · ⭐ **262,863** · 🍴 **22,173**
 
 
 ### 12. [affaan-m/ECC](https://github.com/affaan-m/ECC)
@@ -137,7 +137,7 @@
 > Linux kernel source tree
 
 
-🔤 **C** · ⭐ **249,132** · 🍴 **64,671**
+🔤 **C** · ⭐ **249,132** · 🍴 **64,667**
 
 
 ### 15. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
@@ -145,7 +145,7 @@
 > The agent that grows with you
 
 
-🔤 **Python** · ⭐ **245,869** · 🍴 **51,306**
+🔤 **Python** · ⭐ **245,871** · 🍴 **51,306**
 
 🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
 
@@ -155,7 +155,7 @@
 > DeepSeek Harness: Everything is a Plugin.
 
 
-🔤 **TypeScript** · ⭐ **225,344** · 🍴 **26,823**
+🔤 **TypeScript** · ⭐ **225,346** · 🍴 **26,823**
 
 🏷️ `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -193,7 +193,7 @@
 > An Open Source Machine Learning Framework for Everyone
 
 
-🔤 **C++** · ⭐ **200,114** · 🍴 **76,454**
+🔤 **C++** · ⭐ **200,114** · 🍴 **76,451**
 
 🏷️ `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml` `neural-network`
 
@@ -208,4 +208,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-09-16 09:01:17*
+*最后更新: 2026-09-16 09:02:58*
