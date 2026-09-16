@@ -31,8 +31,9 @@ jobs:
       - name: 抓取并生成日报
         run: python scripts/fetch_trending.py
         env:
-          # 不需要 TOKEN，匿名 API 请求有 60/h 额度，够用
+          # 使用仓库自动注入的 token（5000/h 额度），避免匿名 60/h 被限流
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 提交更新
         run: |

@@ -11,6 +11,17 @@ from datetime import datetime, timezone, timedelta
 
 BEIJING_TZ = timezone(timedelta(hours=8))
 
+def _headers():
+    """构造请求头；若存在 GITHUB_TOKEN 则鉴权（额度 5000/h，避免限流）"""
+    h = {'Accept': 'application/vnd.github.v3+json'}
+    token = os.environ.get('GITHUB_TOKEN') or os.environ.get('GH_TOKEN')
+    if token:
+        h['Authorization'] = f'Bearer {token}'
+    else:
+        print('[WARN] 未检测到 GITHUB_TOKEN，使用匿名额度（60/h，易被限流）')
+    return h
+
+
 def fetch_hot_repos():
     """从 GitHub API 获取高星仓库（模拟 Trending）"""
     all_repos = []
@@ -28,14 +39,17 @@ def fetch_hot_repos():
         f'pushed:>{seven_days_ago} stars:>200 sort:stars-desc',
     ]
 
-    headers = {
-        'Accept': 'application/vnd.github.v3+json',
-    }
+    headers = _headers()
+    rate_limited = False
 
     for query in queries:
         try:
             url = f'https://api.github.com/search/repositories?q={requests.utils.quote(query)}&per_page=25'
             resp = requests.get(url, headers=headers, timeout=15)
+            if resp.status_code == 403 or resp.status_code == 429:
+                rate_limited = True
+                print(f'[WARN] API 被限流或拒绝: HTTP {resp.status_code} — {resp.text[:200]}')
+                continue
             if resp.status_code == 200:
                 items = resp.json().get('items', [])
                 for item in items:
@@ -53,8 +67,13 @@ def fetch_hot_repos():
                         'created_at': item.get('created_at', ''),
                         'updated_at': item.get('updated_at', ''),
                     })
+            else:
+                print(f'[WARN] 搜索返回异常状态: HTTP {resp.status_code}')
         except Exception as e:
             print(f'[WARN] 搜索失败: {e}')
+
+    if rate_limited and not all_repos:
+        print('[ERROR] 所有 API 查询均被限流且无任何数据')
 
     # 去重（按 full_name）
     seen = set()
@@ -78,25 +97,34 @@ def fetch_trending_from_web():
         'Accept': 'text/html',
     }
     try:
-        resp = requests.get(url, headers=headers, timeout=15)
+        resp = requests.get(url, headers=headers, timeout=20)
         resp.raise_for_status()
     except Exception as e:
         print(f'[WARN] 网页抓取失败: {e}')
         return []
 
-    # 简单正则提取仓库名
+    # 从 Trending 页面提取仓库名（article.Box-row 内 <h2><a href="/owner/name">）
     import re
     repos = []
-    # 找 owner/name 格式
-    pattern = r'href="/trending[^"]*">.*?<h2[^>]*>.*?href="/([^/"]+/[^/"]+)"'
-    matches = re.findall(r'href="/([^/"]+/[^/"]+)"', resp.text)
+    matches = re.findall(
+        r'<h2[^>]*class="[^"]*h3[^"]*"[^>]*>\s*<a[^>]*href="/([^/"?#]+/[^/"?#]+)"',
+        resp.text,
+    )
+    if not matches:
+        # 兜底：宽松匹配所有 /owner/name 链接
+        matches = re.findall(r'href="/([A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+)"', resp.text)
+
+    blocked = ('login', 'signup', 'features', 'topics', 'collections',
+               'sponsors', 'settings', 'organizations', 'about', 'pricing')
 
     seen = set()
     for m in matches:
-        if '/' in m and m.count('/') == 1:
-            if m not in seen:
-                seen.add(m)
-                repos.append({'full_name': m})
+        owner, _, name = m.partition('/')
+        if not owner or not name or owner in blocked:
+            continue
+        if m not in seen:
+            seen.add(m)
+            repos.append({'full_name': m})
 
     return repos
 
@@ -109,9 +137,7 @@ def enrich_repos(repos):
             continue
         try:
             url = f'https://api.github.com/repos/{full_name}'
-            resp = requests.get(url, headers={
-                'Accept': 'application/vnd.github.v3+json'
-            }, timeout=10)
+            resp = requests.get(url, headers=_headers(), timeout=10)
             if resp.status_code == 200:
                 data = resp.json()
                 repo['stars'] = data.get('stargazers_count', 0)
@@ -210,8 +236,9 @@ def main():
     print(f'[INFO] 获取到 {len(repos)} 个仓库')
 
     if not repos:
-        print('[WARN] 没有任何数据，生成空日报')
-        repos = []
+        # 数据源全部失败时，不要覆盖已发布的有效日报（避免静默退化）
+        print('[ERROR] 未获取到任何数据，且撤回本次提交：不覆盖 output/latest.json 与 docs/index.md')
+        raise SystemExit(1)
 
     # 生成日报
     markdown = generate_markdown(repos)
