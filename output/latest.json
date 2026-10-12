@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "count": 20,
   "repos": [
     {
@@ -7,140 +7,140 @@
       "url": "https://github.com/public-apis/public-apis",
       "description": "A collective list of free APIs",
       "language": "Python",
-      "stars": 487313
+      "stars": 487655
     },
     {
       "name": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 456839
+      "stars": 456902
     },
     {
       "name": "EbookFoundation/free-programming-books",
       "url": "https://github.com/EbookFoundation/free-programming-books",
       "description": ":books: Freely available programming books",
       "language": "Python",
-      "stars": 398703
+      "stars": 398785
     },
     {
       "name": "openclaw/openclaw",
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
       "language": "TypeScript",
-      "stars": 391639
+      "stars": 391711
     },
     {
       "name": "nilbuild/developer-roadmap",
       "url": "https://github.com/nilbuild/developer-roadmap",
       "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
       "language": "TypeScript",
-      "stars": 369111
+      "stars": 369177
     },
     {
       "name": "vinta/awesome-python",
       "url": "https://github.com/vinta/awesome-python",
       "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
       "language": "Python",
-      "stars": 326423
+      "stars": 326678
     },
     {
       "name": "awesome-selfhosted/awesome-selfhosted",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "",
-      "stars": 325382
+      "stars": 325669
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": 297283
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "url": "https://github.com/practical-tutorials/project-based-learning",
-      "description": "Curated list of project-based tutorials",
-      "language": "Python",
-      "stars": 286313
+      "stars": 297799
     },
     {
       "name": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
-      "stars": 284681
+      "stars": 286500
     },
     {
       "name": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
-      "stars": 276590
+      "stars": 277326
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 252576
+      "stars": 252855
     },
     {
       "name": "torvalds/linux",
       "url": "https://github.com/torvalds/linux",
       "description": "Linux kernel source tree",
       "language": "C",
-      "stars": 251474
+      "stars": 251577
     },
     {
       "name": "react/react",
       "url": "https://github.com/react/react",
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
-      "stars": 250826
+      "stars": 250880
     },
     {
       "name": "deepseek-ai/deepseek-harness",
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 247072
+      "stars": 247667
     },
     {
       "name": "TheAlgorithms/Python",
       "url": "https://github.com/TheAlgorithms/Python",
       "description": "All Algorithms implemented in Python",
       "language": "Python",
-      "stars": 225159
+      "stars": 225182
     },
     {
       "name": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 212577
+      "stars": 212768
     },
     {
       "name": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
-      "stars": 206942
+      "stars": 207040
     },
     {
       "name": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
-      "stars": 200755
+      "stars": 200872
     },
     {
       "name": "yt-dlp/yt-dlp",
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 196714
+      "stars": 196976
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "description": "An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.",
+      "language": "Rust",
+      "stars": 194969
     }
   ]
 }
