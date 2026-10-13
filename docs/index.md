@@ -1,4 +1,4 @@
-# 📊 GitHub Trending 日报 — 2026-10-12 (周一)
+# 📊 GitHub Trending 日报 — 2026-10-13 (周二)
 
 > 每日自动更新 · 数据来源: [GitHub](https://github.com/trending)
 
@@ -9,7 +9,7 @@
 > A collective list of free APIs
 
 
-🔤 **Python** · ⭐ **487,655** · 🍴 **54,041**
+🔤 **Python** · ⭐ **488,073** · 🍴 **54,105**
 
 🏷️ `api` `apis` `dataset` `development` `free` `list`
 
@@ -19,7 +19,7 @@
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 
-🔤 **TypeScript** · ⭐ **456,902** · 🍴 **49,022**
+🔤 **TypeScript** · ⭐ **456,959** · 🍴 **49,056**
 
 🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
@@ -29,7 +29,7 @@
 > :books: Freely available programming books
 
 
-🔤 **Python** · ⭐ **398,785** · 🍴 **66,928**
+🔤 **Python** · ⭐ **398,892** · 🍴 **66,931**
 
 🏷️ `books` `education` `hacktoberfest` `list` `resource`
 
@@ -39,7 +39,7 @@
 > The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **391,711** · 🍴 **82,366**
+🔤 **TypeScript** · ⭐ **391,820** · 🍴 **82,379**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
@@ -49,7 +49,7 @@
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 
-🔤 **TypeScript** · ⭐ **369,177** · 🍴 **45,098**
+🔤 **TypeScript** · ⭐ **369,254** · 🍴 **45,102**
 
 🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
 
@@ -59,7 +59,7 @@
 > The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 
-🔤 **Python** · ⭐ **326,678** · 🍴 **28,932**
+🔤 **Python** · ⭐ **326,975** · 🍴 **28,940**
 
 🏷️ `awesome` `awesome-list` `python` `python-frameworks` `python-libraries` `python-tools`
 
@@ -69,7 +69,7 @@
 > A list of Free Software network services and web applications which can be hosted on your own servers
 
 
-⭐ **325,669** · 🍴 **15,253**
+⭐ **325,959** · 🍴 **15,263**
 
 🏷️ `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -79,7 +79,7 @@
 > An agentic skills framework & software development methodology that works.
 
 
-🔤 **Shell** · ⭐ **297,799** · 🍴 **26,605**
+🔤 **Shell** · ⭐ **298,293** · 🍴 **26,661**
 
 🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
@@ -89,111 +89,113 @@
 > Skills for Real Engineers. Straight from my .agents directory.
 
 
-🔤 **Shell** · ⭐ **286,500** · 🍴 **24,037**
+🔤 **Shell** · ⭐ **288,249** · 🍴 **24,197**
 
 
-### 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
+### 10. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
+> Curated list of project-based tutorials
+
+
+🔤 **Python** · ⭐ **286,542** · 🍴 **36,619**
+
+🏷️ `beginner-project` `cpp` `golang` `javascript` `project` `python`
+
+
+### 11. [affaan-m/ECC](https://github.com/affaan-m/ECC)
 
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
-🔤 **JavaScript** · ⭐ **277,326** · 🍴 **41,368**
+🔤 **JavaScript** · ⭐ **278,031** · 🍴 **41,442**
 
 🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
 
 
-### 11. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
+### 12. [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)
 
 > The agent that grows with you
 
 
-🔤 **Python** · ⭐ **252,855** · 🍴 **54,758**
+🔤 **Python** · ⭐ **253,211** · 🍴 **54,884**
 
 🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
 
 
-### 12. [torvalds/linux](https://github.com/torvalds/linux)
+### 13. [torvalds/linux](https://github.com/torvalds/linux)
 
 > Linux kernel source tree
 
 
-🔤 **C** · ⭐ **251,577** · 🍴 **67,622**
+🔤 **C** · ⭐ **251,704** · 🍴 **67,672**
 
 
-### 13. [react/react](https://github.com/react/react)
+### 14. [react/react](https://github.com/react/react)
 
 > The library for web and native user interfaces.
 
 
-🔤 **JavaScript** · ⭐ **250,880** · 🍴 **51,473**
+🔤 **JavaScript** · ⭐ **250,954** · 🍴 **51,478**
 
 🏷️ `declarative` `frontend` `javascript` `library` `react` `ui`
 
 
-### 14. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
+### 15. [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
 > DeepSeek Harness: Everything is a Plugin.
 
 
-🔤 **TypeScript** · ⭐ **247,667** · 🍴 **29,770**
+🔤 **TypeScript** · ⭐ **248,404** · 🍴 **29,865**
 
 🏷️ `ai-agents` `cordis` `dsh` `dsh-plugin`
 
 
-### 15. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+### 16. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 
 > All Algorithms implemented in Python
 
 
-🔤 **Python** · ⭐ **225,182** · 🍴 **51,179**
+🔤 **Python** · ⭐ **225,206** · 🍴 **51,184**
 
 🏷️ `algorithm` `algorithm-competitions` `algorithms-implemented` `algos` `community-driven` `education`
 
 
-### 16. [anomalyco/opencode](https://github.com/anomalyco/opencode)
+### 17. [anomalyco/opencode](https://github.com/anomalyco/opencode)
 
 > The open source coding agent.
 
 
-🔤 **TypeScript** · ⭐ **212,768** · 🍴 **28,476**
+🔤 **TypeScript** · ⭐ **212,997** · 🍴 **28,545**
 
 
-### 17. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+### 18. [n8n-io/n8n](https://github.com/n8n-io/n8n)
 
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 
-🔤 **TypeScript** · ⭐ **207,040** · 🍴 **61,094**
+🔤 **TypeScript** · ⭐ **207,167** · 🍴 **61,108**
 
 🏷️ `ai` `apis` `automation` `cli` `data-flow` `development`
 
 
-### 18. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+### 19. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 
 > An Open Source Machine Learning Framework for Everyone
 
 
-🔤 **C++** · ⭐ **200,872** · 🍴 **79,171**
+🔤 **C++** · ⭐ **200,907** · 🍴 **79,207**
 
 🏷️ `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml` `neural-network`
 
 
-### 19. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+### 20. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 > A feature-rich command-line audio/video downloader
 
 
-🔤 **Python** · ⭐ **196,976** · 🍴 **17,158**
+🔤 **Python** · ⭐ **197,253** · 🍴 **17,191**
 
 🏷️ `cli` `downloader` `python` `sponsorblock` `youtube-dl` `youtube-downloader`
-
-
-### 20. [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code)
-
-> An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
-
-
-🔤 **Rust** · ⭐ **194,969** · 🍴 **108,067**
 
 
 ---
@@ -206,4 +208,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-10-12 11:59:14*
+*最后更新: 2026-10-13 13:08:39*
