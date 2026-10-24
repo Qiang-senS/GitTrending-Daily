@@ -1,4 +1,4 @@
-# 📊 GitHub Trending 日报 — 2026-10-23 (周五)
+# 📊 GitHub Trending 日报 — 2026-10-24 (周六)
 
 > 每日自动更新 · 数据来源: [GitHub](https://github.com/trending)
 
@@ -9,7 +9,7 @@
 > A collective list of free APIs
 
 
-🔤 **Python** · ⭐ **491,455** · 🍴 **54,659**
+🔤 **Python** · ⭐ **491,689** · 🍴 **54,705**
 
 🏷️ `api` `apis` `dataset` `development` `free` `list`
 
@@ -19,7 +19,7 @@
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 
-🔤 **TypeScript** · ⭐ **457,729** · 🍴 **49,343**
+🔤 **TypeScript** · ⭐ **457,793** · 🍴 **49,243**
 
 🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
@@ -29,7 +29,7 @@
 > :books: Freely available programming books
 
 
-🔤 **Python** · ⭐ **399,860** · 🍴 **66,967**
+🔤 **Python** · ⭐ **399,939** · 🍴 **66,975**
 
 🏷️ `books` `education` `hacktoberfest` `list` `resource`
 
@@ -39,29 +39,29 @@
 > The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **392,796** · 🍴 **82,561**
+🔤 **TypeScript** · ⭐ **392,889** · 🍴 **82,568**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
 
-### 5. [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
-
-> Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
-
-🔤 **TypeScript** · ⭐ **370,169** · 🍴 **45,129**
-
-🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
-
-
-### 6. [morluto/rea](https://github.com/morluto/rea)
+### 5. [morluto/rea](https://github.com/morluto/rea)
 
 > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 
-🔤 **TypeScript** · ⭐ **366,973** · 🍴 **91,955**
+🔤 **TypeScript** · ⭐ **373,623** · 🍴 **93,448**
 
 🏷️ `agent-skills` `ai-agents` `binary-analysis` `claude-code` `cli` `codex`
+
+
+### 6. [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap)
+
+> Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+
+🔤 **TypeScript** · ⭐ **370,240** · 🍴 **45,135**
+
+🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
 
 
 ### 7. [vinta/awesome-python](https://github.com/vinta/awesome-python)
@@ -69,7 +69,7 @@
 > The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 
-🔤 **Python** · ⭐ **329,525** · 🍴 **28,974**
+🔤 **Python** · ⭐ **329,760** · 🍴 **28,981**
 
 🏷️ `awesome` `awesome-list` `python` `python-frameworks` `python-libraries` `python-tools`
 
@@ -79,7 +79,7 @@
 > A list of Free Software network services and web applications which can be hosted on your own servers
 
 
-⭐ **329,387** · 🍴 **15,483**
+⭐ **329,720** · 🍴 **15,499**
 
 🏷️ `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -89,7 +89,7 @@
 > An agentic skills framework & software development methodology that works.
 
 
-🔤 **Shell** · ⭐ **303,788** · 🍴 **27,064**
+🔤 **Shell** · ⭐ **304,273** · 🍴 **27,105**
 
 🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
@@ -99,7 +99,7 @@
 > Skills for Real Engineers. Straight from my .agents directory.
 
 
-🔤 **Shell** · ⭐ **300,976** · 🍴 **25,296**
+🔤 **Shell** · ⭐ **301,864** · 🍴 **25,379**
 
 
 ### 11. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
@@ -107,7 +107,7 @@
 > Curated list of project-based tutorials
 
 
-🔤 **Python** · ⭐ **287,661** · 🍴 **36,682**
+🔤 **Python** · ⭐ **287,726** · 🍴 **36,696**
 
 🏷️ `beginner-project` `cpp` `golang` `javascript` `project` `python`
 
@@ -117,7 +117,7 @@
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
-🔤 **JavaScript** · ⭐ **286,597** · 🍴 **42,512**
+🔤 **JavaScript** · ⭐ **287,397** · 🍴 **42,617**
 
 🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
 
@@ -127,7 +127,7 @@
 > DeepSeek Harness: Everything is a Plugin.
 
 
-🔤 **TypeScript** · ⭐ **258,329** · 🍴 **31,184**
+🔤 **TypeScript** · ⭐ **259,550** · 🍴 **31,338**
 
 🏷️ `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -137,7 +137,7 @@
 > The agent that grows with you
 
 
-🔤 **Python** · ⭐ **256,283** · 🍴 **55,983**
+🔤 **Python** · ⭐ **256,554** · 🍴 **56,085**
 
 🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
 
@@ -147,7 +147,7 @@
 > Linux kernel source tree
 
 
-🔤 **C** · ⭐ **253,204** · 🍴 **68,129**
+🔤 **C** · ⭐ **253,305** · 🍴 **68,021**
 
 
 ### 16. [react/react](https://github.com/react/react)
@@ -155,7 +155,7 @@
 > The library for web and native user interfaces.
 
 
-🔤 **JavaScript** · ⭐ **251,707** · 🍴 **51,563**
+🔤 **JavaScript** · ⭐ **251,733** · 🍴 **51,566**
 
 🏷️ `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -165,7 +165,7 @@
 > All Algorithms implemented in Python
 
 
-🔤 **Python** · ⭐ **225,467** · 🍴 **51,204**
+🔤 **Python** · ⭐ **225,485** · 🍴 **51,208**
 
 🏷️ `algorithm` `algorithm-competitions` `algorithms-implemented` `algos` `community-driven` `education`
 
@@ -175,7 +175,7 @@
 > The open source coding agent.
 
 
-🔤 **TypeScript** · ⭐ **220,254** · 🍴 **29,438**
+🔤 **TypeScript** · ⭐ **220,666** · 🍴 **29,506**
 
 
 ### 19. [n8n-io/n8n](https://github.com/n8n-io/n8n)
@@ -183,7 +183,7 @@
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 
-🔤 **TypeScript** · ⭐ **208,355** · 🍴 **61,218**
+🔤 **TypeScript** · ⭐ **208,422** · 🍴 **61,217**
 
 🏷️ `ai` `apis` `automation` `cli` `data-flow` `development`
 
@@ -193,7 +193,7 @@
 > An Open Source Machine Learning Framework for Everyone
 
 
-🔤 **C++** · ⭐ **201,190** · 🍴 **79,381**
+🔤 **C++** · ⭐ **201,203** · 🍴 **79,288**
 
 🏷️ `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml` `neural-network`
 
@@ -208,4 +208,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-10-23 11:04:29*
+*最后更新: 2026-10-24 11:00:20*
