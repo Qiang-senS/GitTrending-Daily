@@ -1,4 +1,4 @@
-# 📊 GitHub Trending 日报 — 2026-11-03 (周二)
+# 📊 GitHub Trending 日报 — 2026-11-04 (周三)
 
 > 每日自动更新 · 数据来源: [GitHub](https://github.com/trending)
 
@@ -9,7 +9,7 @@
 > A collective list of free APIs
 
 
-🔤 **Python** · ⭐ **495,599** · 🍴 **55,329**
+🔤 **Python** · ⭐ **495,901** · 🍴 **55,361**
 
 🏷️ `api` `apis` `dataset` `development` `free` `list`
 
@@ -19,7 +19,7 @@
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 
-🔤 **TypeScript** · ⭐ **458,462** · 🍴 **48,185**
+🔤 **TypeScript** · ⭐ **458,510** · 🍴 **48,152**
 
 🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
@@ -29,7 +29,7 @@
 > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 
-🔤 **TypeScript** · ⭐ **423,667** · 🍴 **105,615**
+🔤 **TypeScript** · ⭐ **427,712** · 🍴 **106,445**
 
 🏷️ `agent-skills` `ai` `android` `claude-code` `cli` `cpp`
 
@@ -39,7 +39,7 @@
 > :books: Freely available programming books
 
 
-🔤 **Python** · ⭐ **400,769** · 🍴 **67,081**
+🔤 **Python** · ⭐ **400,833** · 🍴 **67,099**
 
 🏷️ `books` `education` `hacktoberfest` `list` `resource`
 
@@ -49,7 +49,7 @@
 > The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **393,759** · 🍴 **82,761**
+🔤 **TypeScript** · ⭐ **393,869** · 🍴 **82,784**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
@@ -59,7 +59,7 @@
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 
-🔤 **TypeScript** · ⭐ **371,102** · 🍴 **45,200**
+🔤 **TypeScript** · ⭐ **371,192** · 🍴 **45,211**
 
 🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
 
@@ -69,7 +69,7 @@
 > A list of Free Software network services and web applications which can be hosted on your own servers
 
 
-⭐ **333,194** · 🍴 **15,697**
+⭐ **333,488** · 🍴 **15,701**
 
 🏷️ `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -79,7 +79,7 @@
 > The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 
-🔤 **Python** · ⭐ **332,065** · 🍴 **29,054**
+🔤 **Python** · ⭐ **332,291** · 🍴 **29,053**
 
 🏷️ `awesome` `awesome-list` `python` `python-frameworks` `python-libraries` `python-tools`
 
@@ -89,7 +89,7 @@
 > An agentic skills framework & software development methodology that works.
 
 
-🔤 **Shell** · ⭐ **311,341** · 🍴 **27,705**
+🔤 **Shell** · ⭐ **311,964** · 🍴 **27,748**
 
 🏷️ `ai` `brainstorming` `coding` `obra` `sdlc` `skills`
 
@@ -99,7 +99,7 @@
 > Skills for Real Engineers. Straight from my .agents directory.
 
 
-🔤 **Shell** · ⭐ **310,424** · 🍴 **26,110**
+🔤 **Shell** · ⭐ **311,665** · 🍴 **26,193**
 
 
 ### 11. [affaan-m/ECC](https://github.com/affaan-m/ECC)
@@ -107,7 +107,7 @@
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
-🔤 **JavaScript** · ⭐ **295,795** · 🍴 **43,764**
+🔤 **JavaScript** · ⭐ **296,637** · 🍴 **43,867**
 
 🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
 
@@ -117,7 +117,7 @@
 > Curated list of project-based tutorials
 
 
-🔤 **Python** · ⭐ **288,833** · 🍴 **36,800**
+🔤 **Python** · ⭐ **288,956** · 🍴 **36,801**
 
 🏷️ `beginner-project` `cpp` `golang` `javascript` `project` `python`
 
@@ -127,7 +127,7 @@
 > DeepSeek Harness: Everything is a Plugin.
 
 
-🔤 **TypeScript** · ⭐ **269,939** · 🍴 **32,793**
+🔤 **TypeScript** · ⭐ **271,399** · 🍴 **33,028**
 
 🏷️ `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -137,7 +137,7 @@
 > The agent that grows with you
 
 
-🔤 **Python** · ⭐ **259,932** · 🍴 **57,247**
+🔤 **Python** · ⭐ **260,295** · 🍴 **57,363**
 
 🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
 
@@ -147,7 +147,7 @@
 > Linux kernel source tree
 
 
-🔤 **C** · ⭐ **254,199** · 🍴 **66,977**
+🔤 **C** · ⭐ **254,307** · 🍴 **67,006**
 
 
 ### 16. [react/react](https://github.com/react/react)
@@ -155,7 +155,7 @@
 > The library for web and native user interfaces.
 
 
-🔤 **JavaScript** · ⭐ **251,882** · 🍴 **51,623**
+🔤 **JavaScript** · ⭐ **251,904** · 🍴 **51,628**
 
 🏷️ `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -165,7 +165,7 @@
 > All Algorithms implemented in Python
 
 
-🔤 **Python** · ⭐ **225,794** · 🍴 **51,267**
+🔤 **Python** · ⭐ **225,839** · 🍴 **51,267**
 
 🏷️ `algorithm` `algorithm-competitions` `algorithms-implemented` `algos` `community-driven` `education`
 
@@ -175,7 +175,7 @@
 > The open source coding agent.
 
 
-🔤 **TypeScript** · ⭐ **224,160** · 🍴 **30,151**
+🔤 **TypeScript** · ⭐ **224,408** · 🍴 **30,217**
 
 
 ### 19. [n8n-io/n8n](https://github.com/n8n-io/n8n)
@@ -183,7 +183,7 @@
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 
-🔤 **TypeScript** · ⭐ **209,413** · 🍴 **61,358**
+🔤 **TypeScript** · ⭐ **209,499** · 🍴 **61,365**
 
 🏷️ `ai` `apis` `automation` `cli` `data-flow` `development`
 
@@ -193,7 +193,7 @@
 > A feature-rich command-line audio/video downloader
 
 
-🔤 **Python** · ⭐ **204,828** · 🍴 **17,991**
+🔤 **Python** · ⭐ **205,041** · 🍴 **18,012**
 
 🏷️ `cli` `downloader` `python` `sponsorblock` `youtube-dl` `youtube-downloader`
 
@@ -208,4 +208,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-11-03 13:01:44*
+*最后更新: 2026-11-04 12:34:08*
