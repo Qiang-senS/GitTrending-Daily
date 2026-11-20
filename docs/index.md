@@ -1,4 +1,4 @@
-# 📊 GitHub Trending 日报 — 2026-11-19 (周四)
+# 📊 GitHub Trending 日报 — 2026-11-20 (周五)
 
 > 每日自动更新 · 数据来源: [GitHub](https://github.com/trending)
 
@@ -9,7 +9,7 @@
 > Master programming by recreating your favorite technologies from scratch.
 
 
-🔤 **Markdown** · ⭐ **563,736** · 🍴 **52,727**
+🔤 **Markdown** · ⭐ **563,987** · 🍴 **52,753**
 
 🏷️ `awesome-list` `free` `programming` `tutorial-code` `tutorial-exercises` `tutorials`
 
@@ -19,7 +19,7 @@
 > A collective list of free APIs
 
 
-🔤 **Python** · ⭐ **500,121** · 🍴 **56,109**
+🔤 **Python** · ⭐ **500,361** · 🍴 **56,159**
 
 🏷️ `api` `apis` `dataset` `development` `free` `list`
 
@@ -29,7 +29,7 @@
 > Reverse engineer anything with agents, from app behavior down to native binaries.
 
 
-🔤 **TypeScript** · ⭐ **468,618** · 🍴 **114,555**
+🔤 **TypeScript** · ⭐ **470,308** · 🍴 **114,889**
 
 🏷️ `agent-skills` `ai` `android` `claude-code` `cli` `cpp`
 
@@ -39,7 +39,7 @@
 > freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 
-🔤 **TypeScript** · ⭐ **459,303** · 🍴 **47,476**
+🔤 **TypeScript** · ⭐ **459,365** · 🍴 **47,476**
 
 🏷️ `careers` `certification` `community` `curriculum` `d3` `education`
 
@@ -49,7 +49,7 @@
 > The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 
 
 
-🔤 **TypeScript** · ⭐ **394,778** · 🍴 **82,926**
+🔤 **TypeScript** · ⭐ **394,855** · 🍴 **82,944**
 
 🏷️ `ai` `assistant` `crustacean` `molty` `openclaw` `own-your-data`
 
@@ -59,7 +59,7 @@
 > Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 
-🔤 **TypeScript** · ⭐ **372,322** · 🍴 **46,515**
+🔤 **TypeScript** · ⭐ **372,400** · 🍴 **46,519**
 
 🏷️ `angular-roadmap` `backend-roadmap` `blockchain-roadmap` `computer-science` `dba-roadmap` `developer-roadmap`
 
@@ -69,7 +69,7 @@
 > A list of Free Software network services and web applications which can be hosted on your own servers
 
 
-⭐ **338,459** · 🍴 **15,890**
+⭐ **338,728** · 🍴 **15,896**
 
 🏷️ `awesome` `awesome-list` `cloud` `free-software` `hosting` `privacy`
 
@@ -79,7 +79,7 @@
 > The definitive list that answers "I want to do X in Python, which tool should I use?"
 
 
-🔤 **Python** · ⭐ **335,744** · 🍴 **29,126**
+🔤 **Python** · ⭐ **335,920** · 🍴 **29,136**
 
 🏷️ `awesome` `awesome-list` `python` `python-frameworks` `python-libraries` `python-tools`
 
@@ -89,7 +89,7 @@
 > Skills for Real Engineers. Straight from my .agents directory.
 
 
-🔤 **Shell** · ⭐ **327,592** · 🍴 **27,510**
+🔤 **Shell** · ⭐ **328,289** · 🍴 **27,588**
 
 
 ### 10. [affaan-m/ECC](https://github.com/affaan-m/ECC)
@@ -97,7 +97,7 @@
 > The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 
-🔤 **JavaScript** · ⭐ **306,700** · 🍴 **45,152**
+🔤 **JavaScript** · ⭐ **307,378** · 🍴 **45,241**
 
 🏷️ `ai-agents` `anthropic` `claude` `claude-code` `developer-tools` `llm`
 
@@ -107,7 +107,7 @@
 > Curated list of project-based tutorials
 
 
-🔤 **Python** · ⭐ **289,994** · 🍴 **36,850**
+🔤 **Python** · ⭐ **290,065** · 🍴 **36,858**
 
 🏷️ `beginner-project` `cpp` `golang` `javascript` `project` `python`
 
@@ -117,7 +117,7 @@
 > DeepSeek Harness: Everything is a Plugin.
 
 
-🔤 **TypeScript** · ⭐ **283,782** · 🍴 **35,223**
+🔤 **TypeScript** · ⭐ **284,333** · 🍴 **35,329**
 
 🏷️ `ai-agents` `cordis` `dsh` `dsh-plugin`
 
@@ -127,7 +127,7 @@
 > The agent that grows with you
 
 
-🔤 **Python** · ⭐ **264,550** · 🍴 **59,729**
+🔤 **Python** · ⭐ **264,805** · 🍴 **59,818**
 
 🏷️ `ai` `ai-agent` `ai-agents` `anthropic` `chatgpt` `claude`
 
@@ -137,7 +137,7 @@
 > Linux kernel source tree
 
 
-🔤 **C** · ⭐ **255,977** · 🍴 **67,523**
+🔤 **C** · ⭐ **256,144** · 🍴 **67,552**
 
 
 ### 15. [react/react](https://github.com/react/react)
@@ -145,7 +145,7 @@
 > The library for web and native user interfaces.
 
 
-🔤 **JavaScript** · ⭐ **252,729** · 🍴 **52,803**
+🔤 **JavaScript** · ⭐ **252,817** · 🍴 **52,817**
 
 🏷️ `declarative` `frontend` `javascript` `library` `react` `ui`
 
@@ -155,47 +155,47 @@
 > The open source coding agent.
 
 
-🔤 **TypeScript** · ⭐ **227,877** · 🍴 **30,919**
+🔤 **TypeScript** · ⭐ **228,087** · 🍴 **30,959**
 
 
-### 17. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-
-> All Algorithms implemented in Python
-
-
-🔤 **Python** · ⭐ **226,284** · 🍴 **51,341**
-
-🏷️ `algorithm` `algorithm-competitions` `algorithms-implemented` `algos` `community-driven` `education`
-
-
-### 18. [n8n-io/n8n](https://github.com/n8n-io/n8n)
+### 17. [n8n-io/n8n](https://github.com/n8n-io/n8n)
 
 > Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 
-🔤 **TypeScript** · ⭐ **211,195** · 🍴 **61,577**
+🔤 **TypeScript** · ⭐ **211,460** · 🍴 **61,600**
 
 🏷️ `ai` `apis` `automation` `cli` `data-flow` `development`
 
 
-### 19. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+### 18. [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 > A feature-rich command-line audio/video downloader
 
 
-🔤 **Python** · ⭐ **209,007** · 🍴 **18,441**
+🔤 **Python** · ⭐ **209,247** · 🍴 **18,488**
 
 🏷️ `cli` `downloader` `python` `sponsorblock` `youtube-dl` `youtube-downloader`
 
 
-### 20. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+### 19. [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
 > Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.
 
 
-🔤 **TypeScript** · ⭐ **203,342** · 🍴 **10,649**
+🔤 **TypeScript** · ⭐ **204,453** · 🍴 **10,717**
 
 🏷️ `ai` `ai-agents` `ai-crawler` `ai-scraping` `ai-search` `crawler`
+
+
+### 20. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
+
+> An Open Source Machine Learning Framework for Everyone
+
+
+🔤 **C++** · ⭐ **201,657** · 🍴 **77,970**
+
+🏷️ `deep-learning` `deep-neural-networks` `distributed` `machine-learning` `ml` `neural-network`
 
 
 ---
@@ -208,4 +208,4 @@
 ![支付宝赞赏码](assets/alipay_qr.jpg)
 
 
-*最后更新: 2026-11-19 13:39:08*
+*最后更新: 2026-11-20 13:27:25*
